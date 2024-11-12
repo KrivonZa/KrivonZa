@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tan Dung, but you can call me Kevin 😉</h1>
 <h3 align="center">A passionate, inquisitive about everything, funny and sometimes a bit crazy developer from Vietnam</h3>
-<img align="right" alt="eyeBrow" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTFkb2MxM2MwZDkzazZocmtib3g5amM2bDkxYXczdjdiYm8zcmh3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wkW0maGDN1eSc/giphy.gif"/>
+<img align="right" alt="eyeBrow" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTFkb2MxM2MwZDkzazZocmtib3g5amM2bDkxYXczdjdiYm8zcmh3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wkW0maGDN1eSc/giphy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krivonza&label=Profile%20views&color=0e75b6&style=flat" alt="krivonza" /> </p>
 
