@@ -2,7 +2,7 @@
 <h3 align="center">A passionate, inquisitive about everything, funny and sometimes a bit crazy developer from Vietnam</h3>
 
 <p align="center">
-  <img alt="eyeBrow" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTFkb2MxM2MwZDkzazZocmtib3g5amM2bDkxYXczdjdiYm8zcmh3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wkW0maGDN1eSc/giphy.gif"/>
+  <img alt="eyeBrow" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZteDcwOGRka3FjbTV2b3EyYmhtdDkwaDl5ZXp3YTBib2xwamhwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmgHHxtKgDsYrVsEOw/giphy.gif"/>
 </p>
 
 <p align="center">
