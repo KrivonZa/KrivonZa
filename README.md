@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img altalt="cat" width="800" src="https://media.tenor.com/iJklJd0dfrcAAAAj/cat-cats.gif"/>
+  <img altalt="cat" width="800" src="https://media.tenor.com/YbzQM17QUG0AAAAi/cat-cats.gif"/>
 </p>
 
 <p align="center">
