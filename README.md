@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img altalt="cat" width="800" src="https://tenor.com/vi/view/cat-cats-camping-campfire-fire-gif-9842939305148645047"/>
+  <img altalt="cat" width="800" src="https://media.tenor.com/iJklJd0dfrcAAAAj/cat-cats.gif"/>
 </p>
 
 <p align="center">
