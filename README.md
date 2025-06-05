@@ -3,7 +3,7 @@
 <h4 align="center">I drive 🚗, I cook 🔥, I eat 🍽️, I slepp💤, I ugaugabunga </h4>
 
 <p align="center">
-  <img alt="eyeBrow" width="200" src="https://i.chzbgr.com/full/9204612608/h339C1D32/cat"/>
+  <img alt="eyeBrow" width="600" src="https://i.chzbgr.com/full/9204612608/h339C1D32/cat"/>
 </p>
 <h5 align="center">You still here, then let's cook with me 🔥</h5>
 
