@@ -3,8 +3,9 @@
 <h4 align="center">I drive 🚗, I cook 🔥, I eat 🍽️, I slepp💤, I ugaugabunga </h4>
 
 <p align="center">
-  <img alt="eyeBrow" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZteDcwOGRka3FjbTV2b3EyYmhtdDkwaDl5ZXp3YTBib2xwamhwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmgHHxtKgDsYrVsEOw/giphy.gif"/>
+  <img alt="eyeBrow" width="200" src="https://i.chzbgr.com/full/9204612608/h339C1D32/cat"/>
 </p>
+<h5 align="center">You still here, then let's cook with me 🔥</h5>
 
 <p align="center">
   <img altalt="cat" width="800" src="https://media.tenor.com/YbzQM17QUG0AAAAi/cat-cats.gif"/>
