@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tan Dung (tən zuŋ/Tan Dzung), but you can call me Kevin 😉</h1>
 <h3 align="center">A passionate, inquisitive about everything, funny and sometimes a bit crazy developer from Vietnam</h3>
 <h4 align="center">I drive 🚗, I cook 🔥, I eat 🍽️, I slepp💤, I ugaugabunga </h4>
-
-<p align="center">
-  <img alt="eyeBrow" width="600" src="https://drive.google.com/uc?export=view&id=1wHX7IvkEhX_YjZcCjzR-MDaInoWK5psk"/>
-</p>
 <!-- <h5 align="center">This is my hometown, you can watch this video</h5> -->
 
 <p align="center">
