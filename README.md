@@ -11,18 +11,17 @@
   <img src="https://komarev.com/ghpvc/?username=krivonza&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=krivonza&margin-w=5&theme=dracula" alt="GitHub Trophies" />
   </a>
-</p>
+</p> -->
 
 ---
 
-### Connect with me:
-<p align="center">
+<!-- <p align="center"> -->
   <!-- Add your social links here -->
-</p>
+<!-- </p> -->
 
 ### Languages and Tools:
 <p align="center">
@@ -64,13 +63,17 @@
 ---
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krivonza&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api?username=krivonza&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api/streak/?username=krivonza&theme=tokyonight"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=krivonza&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krivonza" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=krivonza&&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
