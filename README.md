@@ -67,7 +67,9 @@
     src="https://github-readme-stats-fast.vercel.app/api?username=krivonza&show_icons=true&theme=tokyonight"
     alt="GitHub Stats"
   />
-  &nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center">
   <img 
     src="https://github-readme-stats-fast.vercel.app/api/streak/?username=krivonza&theme=tokyonight"
     alt="GitHub Streak"
