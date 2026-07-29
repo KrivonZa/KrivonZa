@@ -3,7 +3,7 @@
 <h4 align="center">I drive 🚗 • I cook 🔥 • I eat 🍽️ • I sleep 💤 • sometimes I uga-bunga code 🗿</h4>
 
 <p align="center">
-  <img alt="cat" width="800" src="https://media.tenor.com/YbzQM17QUG0AAAAi/cat-cats.gif"/>
+  <img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1.0.0/gifs/hrzn/9586c6fa-686c-4f87-9b1f-132b46322499.gif" width="100%" style="image-rendering: pixelated;" alt="pixel-art-readme-gifs">
 </p>
 
 <p align="center">
@@ -25,19 +25,13 @@
 ### 🌐 Portfolio & Links
 
 <p align="center">
-
-<a href="https://kevintruong-portfolio.vercel.app">
-  🌍 Portfolio
-</a>
+<a href="https://kevintruong-portfolio.vercel.app">🌍 Portfolio</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="mailto:your-email@gmail.com">
-  📧 Email
-</a>
+<a href="https://kevintruong-portfolio.vercel.app/resume">📄 Resume</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/kevin-truong-arn320">
-  💼 LinkedIn
-</a>
-
+<a href="mailto:kevintruong6587@gmail.com">📧 Email</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/kevin-truong-arn320">💼 LinkedIn</a>
 </p>
 
 ---
@@ -49,45 +43,32 @@
 - 📱 Working with **React, React Native, and modern web stacks**
 - ⚙️ Improving **backend architecture and performance**
 
+> 📌 Check out my **pinned repositories** above for a curated look at my recent projects.
+
 ---
 
 ### 🧰 Languages and Tools
 
 <p align="center">
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  </a>
-  <a href="https://kotlinlang.org">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"/>
-  </a>
-  <a href="https://postman.com">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-  </a>
-  <a href="https://reactjs.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  </a>
-  <a href="https://reactnative.dev/">
-    <img src="https://reactnative.dev/img/header_logo.svg" width="40"/>
-  </a>
-  <a href="https://tailwindcss.com/">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts&theme=light" width="45" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=light" width="45" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=light" width="45" /></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs&theme=light" width="45" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="45" /></a>
+  <a href="https://nestjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=nestjs&theme=light" width="45" /></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express&theme=light" width="45" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres&theme=light" width="45" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb&theme=light" width="45" /></a>
+  <a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis&theme=light" width="45" /></a>
+  <a href="https://www.prisma.io/" target="_blank"><img src="https://skillicons.dev/icons?i=prisma&theme=light" width="45" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind&theme=light" width="45" /></a>
+  <a href="https://kotlinlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin&theme=light" width="45" /></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase&theme=light" width="45" /></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma&theme=light" width="45" /></a>
+  <a href="https://postman.com" target="_blank"><img src="https://skillicons.dev/icons?i=postman&theme=light" width="45" /></a>
 </p>
+
+<!-- Each icon is its own skillicons.dev request (theme=light = white background), wrapped in a link to the tech's official site. To add/remove a tech: copy a line, swap the href and the &i= id (full id list at https://skillicons.dev). -->
 
 ---
 
@@ -96,11 +77,9 @@
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=krivonza&show_icons=true&theme=tokyonight"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=krivonza&theme=tokyonight"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=krivonza&layout=compact&theme=tokyonight"/>
 </p>
@@ -110,6 +89,4 @@
 ### 🧠 Fun Fact
 
 > I believe programming is a mix of **logic, curiosity, and controlled chaos**.
-
-If something is weird, interesting, or slightly crazy —  
-there's a high chance I'll try to build it 🚀
+> If something is weird, interesting, or slightly crazy — there's a high chance I'll try to build it 🚀
