@@ -29,7 +29,7 @@
 &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="https://kevintruong-portfolio.vercel.app/resume">📄 Resume</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="mailto:kevintruong6587@gmail.com">📧 Email</a>
+<a href="mailto:truongtandung.work253@gmail.com">📧 Email</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/kevin-truong-arn320">💼 LinkedIn</a>
 </p>
